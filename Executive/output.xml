@@ -1,0 +1,67 @@
+
+  <db type="testDb">
+    <dbRecord>
+      <key>
+        Maniyar
+      </key>
+      <value>
+        <name>
+          Arjav
+        </name>
+        <description>
+          Commerce Student
+        </description>
+        <payload>
+          TestforArjav
+        </payload>
+      </value>
+    </dbRecord>
+    <dbRecord>
+      <key>
+        Mehta
+      </key>
+      <value>
+        <name>
+          Ketul
+        </name>
+        <description>
+          Student of Computer Science
+        </description>
+        <payload>
+          Database Testing
+        </payload>
+      </value>
+    </dbRecord>
+    <dbRecord>
+      <key>
+        Shah
+      </key>
+      <value>
+        <name>
+          Komal
+        </name>
+        <description>
+          Student of Chemistry
+        </description>
+        <payload>
+          Test Database
+        </payload>
+      </value>
+    </dbRecord>
+    <dbRecord>
+      <key>
+        Parekh
+      </key>
+      <value>
+        <name>
+          Shrushti
+        </name>
+        <description>
+          Student of Arts
+        </description>
+        <payload>
+          Test2
+        </payload>
+      </value>
+    </dbRecord>
+  </db>
